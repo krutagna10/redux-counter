@@ -66,7 +66,7 @@ td {
 /* Button Utility */
 .btn {
   display: block;
-  padding: 0.4125rem 1.25rem;
+  padding: 0.4125rem 1.5rem;
   cursor: pointer;
   white-space: nowrap;
   border-radius: 0.25rem;
@@ -109,4 +109,9 @@ td {
 /* Text Center Utility Class */
 .text-center {
   text-align: center;
+}
+
+.authentication__btn-wrapper {
+  display: grid;
+  place-content: center;
 }
