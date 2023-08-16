@@ -24,7 +24,7 @@ function Counter() {
 
   return (
     <>
-      <h2 className="text-center">Redux Counter</h2>
+      <h1 className="text-center">Redux Counter</h1>
       <table>
         <thead>
           <tr>
