@@ -1,3 +1,15 @@
-# React Template
+# Redux Counter App
 
-This repository provides a React template powered by Vite, a fast build tool and development server.
+### Screenshot
+
+![](screenshot/Screenshot.png)
+
+### Links
+
+- Live Site URL: [https://redux-counter-app-10.netlify.app/]
+
+### Built with
+
+- React
+- Redux
+
